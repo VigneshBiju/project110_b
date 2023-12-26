@@ -1,0 +1,3 @@
+0 rock
+1 scizors
+2 paper
